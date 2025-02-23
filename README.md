@@ -4,7 +4,7 @@ Detailed report: [pdf](https://github.com/mkuerst/my_project/blob/main/Semester_
 
 The key value cache was taken and integrated from: https://github.com/ModelTC/lightllm
 
-Below you see an example workflow that processes a batch of requests:
+Below is an example workflow that processes a batch of requests:
 
 ![Alt Text](./LLM_serving_system.png)
 
